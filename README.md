@@ -1,6 +1,6 @@
 ### Hi there, I'm Marina Portugal, a Junior Developer 👋
 
-- 🌱 I’m currently in a 5-month residency in Full Stack Web e Mobile Development, learning HTML, CSS, JavaScript, Java, Node.JS, React, React-Native, SQL, Android, and Swift.
+- 🌱 I’m currently in a 5-month residency in Full Stack Web e Mobile Development, learning HTML, CSS, JavaScript, Java, Node.JS, Spring Boot, React, React-Native, SQL, PostgreSQL, Android, and Swift.
 <div align="center">
   
 ![giphy](https://user-images.githubusercontent.com/97859473/162637683-90940a23-cc44-4053-8eda-d1bb5881f3ad.gif)
