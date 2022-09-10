@@ -1,6 +1,6 @@
 ### Hi there, I'm Marina Portugal, a Junior Developer 👋
 
-- 🌱 I’m a Full Stack Web e Mobile Developer, studying HTML, CSS, JavaScript, Node.JS, Java, Spring Boot, C#, .NET Core, Vue.js, React, React-Native, SQL, PostgreSQL, Android.
+- 🌱 I’m a Full Stack Web e Mobile Developer, studying HTML, CSS, JavaScript, Node.JS, Java, Spring Boot, C#, .NET, Vue.js, React, React-Native, SQL, PostgreSQL, Android.
 <div align="center">
   
 ![giphy](https://user-images.githubusercontent.com/97859473/162637683-90940a23-cc44-4053-8eda-d1bb5881f3ad.gif)
