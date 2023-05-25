@@ -1,4 +1,4 @@
-### Hi there, I'm Marina Portugal, a Junior Developer 👋
+### Hi there, I'm Marina Valente, a Junior Developer 👋
 
 - 🌱 I’m a Full Stack Web Developer, studying HTML, CSS, JavaScript, Node.JS, Java, Spring Boot, C#, .NET, Vue.js, React, React-Native, SQL, PostgreSQL, Android.
 <div align="center">
