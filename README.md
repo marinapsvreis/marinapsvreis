@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Marina Valente 
 
 - 🌱 I’m studying React.js, React-Native and Node.JS.
-- 💻 I'm Fullstack Developer working with Vue/Javascript and .NET6/C# at Alterdata Software.
+- 💻 I'm a Fullstack Developer working with Vue/Javascript and .NET6/C# at Alterdata Software.
 <br>
 
 ## 👀 Find me (social media)
