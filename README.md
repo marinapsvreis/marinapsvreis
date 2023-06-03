@@ -4,7 +4,7 @@
 - 💻 I'm a Fullstack Developer working with Vue/Javascript and .NET6/C# at Alterdata Software.
 <br>
 
-## 👀 Find me (social media)
+## 🎯 Let's Keep in Touch and Follow me 
 
   <a href="https://www.linkedin.com/in/marinapsvreis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://discord.com/users/466719058721505320" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
