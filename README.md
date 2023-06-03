@@ -1,6 +1,8 @@
-### Hi there, I'm Marina Valente, a Junior Developer 👋
+### Hi there, I'm Marina Valente, a FullStack Developer 👋
 
-- 🌱 I’m a Full Stack Web Developer, studying HTML, CSS, JavaScript, Node.JS, Java, Spring Boot, C#, .NET, Vue.js, React, React-Native, SQL, PostgreSQL, Android.
+- 🌱 I’m studying React.js, React-Native and Node.JS.
+- 💻 I'm working with Vue.js and .NET 6.
+
 <div align="center">
   
 ![giphy](https://user-images.githubusercontent.com/97859473/162637683-90940a23-cc44-4053-8eda-d1bb5881f3ad.gif)
