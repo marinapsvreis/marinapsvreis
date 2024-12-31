@@ -41,7 +41,7 @@ Graduated as a full stack web/mobile developer in a software residency program, 
 </div>
 <br>
 <div>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=marinapsvreis&theme=tokyonight"><br><br>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=marinapsvreis&theme=tokyonight&hide=java"><br><br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marinapsvreis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>  
 </div>
 </div> 
