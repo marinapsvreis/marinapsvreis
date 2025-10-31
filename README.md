@@ -2,7 +2,7 @@
 
 Graduated as a full stack web/mobile developer in a software residency program, today I have more proficiency to work as a front-end, I want to develop myself and pursue a career in this path of web development knowledge. I have an excellent logical reasoning for problem solving, ease of learning, leadership profile and good oratory.
 
-- 💻 I'm a Fullstack Developer working with Next/React/Node at Cogna.
+- 💻 I'm a Fullstack Developer.
 <br>
 
 ## 🎯 Let's Keep in Touch and Follow me 
